@@ -1,0 +1,10 @@
+#slideshow img{
+  width:200px;
+  height:250px;
+  border: 7px solid black;
+  border-radius: 5%;
+}
+#slideshow{
+  background-color: rgb(242, 175, 7);
+  border-radius: 7%;
+}
